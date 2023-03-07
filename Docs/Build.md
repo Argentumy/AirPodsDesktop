@@ -16,7 +16,7 @@ The current path will be named ___BuildPath___ in the rest of this document.
 
 ## Windows
 
-1. Download and install __Visual Studio 2019__ if you didn't have it.
+1. Download and install __Visual Studio 2019__ if you didn't have it. (Minimum required components are Desktop development with C++)
 
 2. Clone and bootstrap [vcpkg](https://github.com/microsoft/vcpkg#quick-start-windows) if you didn't have it.
 
